@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramankumar-1
-- 👀 I’m interested in Python and Machine Learning Projects. 
+- 👀 I’m interested in Python, Web Developement & ML Projects. 
 - 🌱 I’m currently learning Computer Science from VIT. 
 - 💞️ I’m looking to collab on any project. 
 
